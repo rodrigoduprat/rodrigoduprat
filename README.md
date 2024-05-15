@@ -11,7 +11,6 @@
 # 🧰 Aprendendo:
 
 <p align="left">
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="Python" height="80" style="vertical-align:top; margin:4px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" alt='JS' height="80" style="vertical-align:top; margin:4px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" alt='R' height="80" style="vertical-align:top; margin:4px">
@@ -24,7 +23,10 @@
 <img src="https://www.svgrepo.com/show/373827/markdown.svg" alt='Markdown' height="80" style="vertical-align:top; margin:4px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" alt='Git' height="80" style="vertical-align:top; margin:4px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" alt='GitHub' height="80" style="vertical-align:top; margin:4px">
-
 </p>
           
-          
+<div>
+<a href="https://github.com/rodrigoduprat">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>       
