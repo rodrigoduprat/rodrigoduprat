@@ -10,6 +10,10 @@
 
 # 🧰 Aprendendo:
 
+<p align="center">
+  <img src="https://tenor.com/pt-BR/view/thai-ping-typing-typing-fast-cat-typing-gif-8974944355033076259" width="350">
+</p>
+
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="Python" height="80" style="vertical-align:top; margin:4px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" alt='JS' height="80" style="vertical-align:top; margin:4px">
@@ -27,6 +31,6 @@
           
 <div>
 <a href="https://github.com/rodrigoduprat">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoduprat&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigoduprat&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>       
