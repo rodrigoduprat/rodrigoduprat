@@ -10,10 +10,6 @@
 
 # 🧰 Aprendendo:
 
-<p align="center">
-  <img src="https://tenor.com/pt-BR/view/thai-ping-typing-typing-fast-cat-typing-gif-8974944355033076259" width="350">
-</p>
-
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="Python" height="80" style="vertical-align:top; margin:4px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" alt='JS' height="80" style="vertical-align:top; margin:4px">
@@ -27,6 +23,10 @@
 <img src="https://www.svgrepo.com/show/373827/markdown.svg" alt='Markdown' height="80" style="vertical-align:top; margin:4px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" alt='Git' height="80" style="vertical-align:top; margin:4px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" alt='GitHub' height="80" style="vertical-align:top; margin:4px">
+</p>
+
+<p align="center">
+  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
 </p>
           
 <div>
